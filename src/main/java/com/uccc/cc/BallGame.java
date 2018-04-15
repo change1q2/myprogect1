@@ -21,6 +21,9 @@ public class BallGame extends JFrame{
        System.out.println("窗口被画了一次");
        g.drawImage(desk,0,0,null);
        g.drawImage(ball,(int) x,(int) y,null);
+       g.drawImage(ball,(int) x,(int) y,null);
+
+
 
        //小球到边缘如何来回弹动?
         if(right){
@@ -35,7 +38,6 @@ public class BallGame extends JFrame{
         if(x<40){//40桌子边框的宽度
             right = true;
         }
-
 
    }
    //窗口加载
