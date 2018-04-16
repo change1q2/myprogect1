@@ -8,7 +8,7 @@ package com.uccc.cc;
 import java.util.Scanner;
 public class TestScanner {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);//新建一个Scanner对象可以用来进行输入
         System.out.println("输入名字：");
         String name = scanner.nextLine();
         System.out.println("输入你的爱好：");
