@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="befc782f-6db6-4d8b-9aab-7b427b9f5c77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gameguess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Divide5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/OddNumberAndEvenNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,8 +20,8 @@
       <file leaf-file-name="Testyear.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Testyear.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="703">
+              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -38,8 +38,8 @@
       <file leaf-file-name="gameguess.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gameguess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1159">
-              <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+            <state relative-caret-position="500">
+              <caret line="51" column="38" lean-forward="true" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,13 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gameguess.java" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/gameguess.java">
+      <file leaf-file-name="OddNumberAndEvenNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/OddNumberAndEvenNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="304">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Divide5.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Divide5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -107,6 +114,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Test99number.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testnumber2.java" />
         <option value="$PROJECT_DIR$/src/main/java/gameguess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/OddNumberAndEvenNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Divide5.java" />
       </list>
     </option>
   </component>
@@ -117,9 +126,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="13" />
-    <option name="width" value="1060" />
-    <option name="height" value="1025" />
+    <option name="x" value="1044" />
+    <option name="y" value="197" />
+    <option name="width" value="894" />
+    <option name="height" value="850" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -131,7 +141,6 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,10 +166,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GameGuess">
+  <component name="RunManager" selected="Application.Divide5">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -215,13 +233,24 @@
       <module name="myprogect1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
+    <configuration name="Divide5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.Divide5" />
+      <module name="myprogect1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uccc.cc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="GameGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GameGuess" />
       <module name="myprogect1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Test99number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.Test99number" />
+    <configuration name="OddNumberAndEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.OddNumberAndEvenNumber" />
       <module name="myprogect1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -250,17 +279,6 @@
       <option name="MAIN_CLASS_NAME" value="com.uccc.cc.TestVariable" />
       <module name="myprogect1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Testyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.Testyear" />
-      <module name="myprogect1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.uccc.cc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -338,19 +356,19 @@
       <item itemvalue="Application.TestPrimitiveDataType" />
       <item itemvalue="Application.TestOperator05" />
       <item itemvalue="Application.TestOperator06" />
-      <item itemvalue="Application.Test99number" />
-      <item itemvalue="Application.Testyear" />
       <item itemvalue="Application.gameguess" />
       <item itemvalue="Application.gameguess (1)" />
       <item itemvalue="Application.GameGuess" />
+      <item itemvalue="Application.OddNumberAndEvenNumber" />
+      <item itemvalue="Application.Divide5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Divide5" />
+        <item itemvalue="Application.OddNumberAndEvenNumber" />
         <item itemvalue="Application.GameGuess" />
         <item itemvalue="Application.gameguess" />
         <item itemvalue="Application.gameguess (1)" />
-        <item itemvalue="Application.Test99number" />
-        <item itemvalue="Application.Testyear" />
       </list>
     </recent_temporary>
   </component>
@@ -378,23 +396,23 @@
     <option name="totallyTimeSpent" value="59830000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="13" width="1148" height="1025" extended-state="0" />
+    <frame x="1044" y="197" width="894" height="850" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32482597" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3245997" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30162412" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30131003" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25183824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25779375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -417,23 +435,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/testConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/BallGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/TestOperator05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -452,9 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,9 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,9 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -583,9 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -672,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Testyear.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="703">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -691,22 +680,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/gameguess.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/gameguess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="61" column="38" lean-forward="true" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+        <state relative-caret-position="500">
+          <caret line="51" column="38" lean-forward="true" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/gameguess.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/OddNumberAndEvenNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Divide5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
