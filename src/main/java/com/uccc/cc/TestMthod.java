@@ -2,7 +2,7 @@ package com.uccc.cc;
 
 /**
  * 作者:seak
- * 内容:测试方法的基本使用
+ * 内容:
  * 时间:2018/04/20 15:26
  */
 public class TestMthod {
