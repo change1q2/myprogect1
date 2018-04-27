@@ -12,19 +12,37 @@ public class ScStu {
     int id;
     String name;
     int age;
+    Computer comp;//计算机
 
+
+    //方法
     void  study(){
-        System.out.println("学习");
+        System.out.println("学习"+comp.brand)
     }
+   //构造方法,用于创建这个类的对象,无参的构造方法可以系统自己创建
+    ScStu(){
 
+    }
     void play(){
         System.out.println("娱乐");
     }
-   //main 方法是程序的入口不许要哟哟
+   //main 方法是程序的入口,必须要有
     public static void main(String[] args) {
-        ScStu sty = new ScStu();
+        ScStu sty = new ScStu();//创建一个对象
+        sty.id = 1001;
+        sty.name = "海军";
+        sty.age = 18;
+        
+        Computer c1 = new Computer();
+        c1.brand ="联想";
+        
+        sty.comp = c1;
         sty.play();
         sty.study();
 
+
+    }
+    static class Computer{
+        String brand;
     }
 }
