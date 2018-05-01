@@ -17,7 +17,7 @@ public class ScStu {
 
     //方法
     void  study(){
-        System.out.println("学习"+comp.brand)
+        System.out.println("学习"+comp.brand);
     }
    //构造方法,用于创建这个类的对象,无参的构造方法可以系统自己创建
     ScStu(){
