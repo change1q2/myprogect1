@@ -1,4 +1,4 @@
-package com.uccc.cc.object;
+package com.uccc.cc.object; //包域名倒着写
 
 /**
  * 作者：seak

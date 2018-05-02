@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f21aea-6de4-48c4-9b9a-c364a34fcaad" name="Default" comment="" />
+    <list default="true" id="e8f21aea-6de4-48c4-9b9a-c364a34fcaad" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/BallGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Game/BallGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/BallGame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Game/BallGame2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Divide5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Divide5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/OddNumberAndEvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/OddNumberAndEvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/SchoolMorePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/SchoolMorePeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/T.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Test100And150Divide3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Test100And150Divide3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Test5schoolchildrenscore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Test5schoolchildrenscore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Test99number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Test99number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestMthod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestMthod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestOperator03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestOperator05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestOperator06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestOverload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOverload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestPrimitiveDataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestPrimitiveDataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestPrimitiveDataType3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestPrimitiveDataType3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestRecrsion01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestRecrsion01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestTypeCorrert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestTypeCorrert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/TestWhileQiantao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestWhileQiantao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testdouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testdouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testifelse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testifelse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testifelseif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testifelseif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testn10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Testn10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testnumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/判断机制/Testnumber2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testswitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testswitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testwhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testwhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testyear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testyear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Testzhishu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Testzhishu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/guessgame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Game/guessgame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/guessgame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Game/guessgame2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/testConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/testConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gameguess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/gameguess.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,26 +56,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="User2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User2.java">
+      <file leaf-file-name="TestPrimitiveDataType3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestPrimitiveDataType3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User3.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User3.java">
+      <file leaf-file-name="TestRecrsion01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestRecrsion01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding>
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="141">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestScanner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestScanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testswitch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testswitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestTypeCorrert.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestTypeCorrert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestVariable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestVariable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testwhile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testwhile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestWhileQiantao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestWhileQiantao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testyear.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testyear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Testzhishu.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Testzhishu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -54,12 +164,30 @@
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/object/ScStu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/count.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/SchoolMorePeople.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Test5schoolchildrenscore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Test99number.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestBreak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestMthod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Testn10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/判断机制/Testnumber2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOverload.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestPrimitiveDataType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestRecrsion01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestScanner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestTypeCorrert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestVariable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testwhile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Testzhishu.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1058" />
-    <option name="y" value="154" />
+    <option name="x" value="448" />
+    <option name="y" value="48" />
     <option name="width" value="859" />
     <option name="height" value="871" />
   </component>
@@ -70,6 +198,7 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,28 +224,10 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cc" type="462c0819:PsiDirectoryNode" />
-              <item name="object" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -233,12 +344,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1058" y="154" width="859" height="871" extended-state="0" />
-    <editor active="true" />
+    <frame x="448" y="48" width="859" height="871" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.259887" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -249,7 +358,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34793493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35669586" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32909605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -261,13 +371,31 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.259887" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -288,21 +416,302 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="266">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
           <folding>
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
             <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Divide5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gui/gameguess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Game/BallGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Game/BallGame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Game/guessgame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Game/guessgame2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/OddNumberAndEvenNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/SchoolMorePeople.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Test5schoolchildrenscore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Test99number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Test100And150Divide3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/testConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testdouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testifelse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testifelseif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestMthod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Testnumber.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Testn10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/判断机制/Testnumber2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOperator06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestOverload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestPrimitiveDataType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestPrimitiveDataType3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/TestRecrsion01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testswitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestTypeCorrert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testwhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestWhileQiantao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testyear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Testzhishu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
