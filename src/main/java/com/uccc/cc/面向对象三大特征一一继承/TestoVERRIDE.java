@@ -27,12 +27,19 @@ public class TestoVERRIDE {
     public void stop(){
         System.out.println("停止!");
     }
+    public Person whoISPsg(){//定义一个Person方法，加入返回值
+        return new Person();//返货乘客，new一个person
+    }
  }
 
  //重写Vehicle,就算是继承了Vehicle里面run的类容也可以进行方法重写
  class Horse extends Vehicle{
     public void run(){
         System.out.println("dddd");
+    }
+     //返回值类型《=父类类型
+    public Student whoIsPsg(){
+        return new Student();
     }
 
  }
