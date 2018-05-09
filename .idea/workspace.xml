@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f21aea-6de4-48c4-9b9a-c364a34fcaad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一封装/TestEncapsulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myprogect1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myprogect1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一继承/TestoVERRIDE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一继承/TestoVERRIDE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uccc/cc/面向对象三大特征一一继承/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uccc/cc/面向对象三大特征一一继承/Horse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uccc/cc/面向对象三大特征一一继承/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uccc/cc/面向对象三大特征一一继承/Vehicle.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,90 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Testwhile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testwhile.java">
+      <file leaf-file-name="TestSuper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestSuper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="176">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestWhileQiantao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestWhileQiantao.java">
+      <file leaf-file-name="TestEncapsulation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一封装/TestEncapsulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Testyear.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/Testyear.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Testzhishu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/homework/Testzhishu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestoVERRIDE.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一继承/TestoVERRIDE.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#763#764#0" expanded="true" />
-                <element signature="e#799#800#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestObject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-              <folding>
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestEquals.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestEquals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+            <state relative-caret-position="475">
+              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -151,6 +74,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一继承/TestoVERRIDE.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestEquals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestSuper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一封装/TestEncapsulation.java" />
       </list>
     </option>
   </component>
@@ -161,9 +86,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="802" />
-    <option name="width" value="1138" />
-    <option name="height" value="1038" />
+    <option name="x" value="1057" />
+    <option name="y" value="210" />
+    <option name="width" value="862" />
+    <option name="height" value="827" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -215,7 +141,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cc" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics基础知识" type="462c0819:PsiDirectoryNode" />
+              <item name="面向对象三大特征一封装" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +167,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestEquals">
+  <component name="RunManager" selected="Application.TestEncapsulation">
+    <configuration name="TestEncapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.面向对象三大特征一封装.TestEncapsulation" />
+      <module name="myprogect1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uccc.cc.面向对象三大特征一封装.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="TestEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.uccc.cc.Basics基础知识.TestEquals" />
       <module name="myprogect1" />
@@ -264,6 +201,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="TestSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.Basics基础知识.TestSuper" />
+      <module name="myprogect1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uccc.cc.Basics基础知识.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="TestoVERRIDE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.uccc.cc.面向对象三大特征一一继承.TestoVERRIDE" />
       <module name="myprogect1" />
@@ -271,28 +219,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.uccc.cc.面向对象三大特征一一继承.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TextExtend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.面向对象三大特征一一继承.TextExtend" />
-      <module name="myprogect1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.uccc.cc.面向对象三大特征一一继承.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="User3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.object.User3" />
-      <module name="myprogect1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.uccc.cc.object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,19 +265,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.User3" />
-      <item itemvalue="Application.TextExtend" />
       <item itemvalue="Application.TestoVERRIDE" />
       <item itemvalue="Application.TestObject" />
       <item itemvalue="Application.TestEquals" />
+      <item itemvalue="Application.TestSuper" />
+      <item itemvalue="Application.TestEncapsulation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestEncapsulation" />
+        <item itemvalue="Application.TestSuper" />
         <item itemvalue="Application.TestEquals" />
         <item itemvalue="Application.TestObject" />
         <item itemvalue="Application.TestoVERRIDE" />
-        <item itemvalue="Application.TextExtend" />
-        <item itemvalue="Application.User3" />
       </list>
     </recent_temporary>
   </component>
@@ -373,29 +299,29 @@
     <option name="totallyTimeSpent" value="3981000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="802" y="0" width="1138" height="1038" extended-state="0" />
+    <frame x="1057" y="210" width="862" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.25714287" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.256" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3381877" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3417143" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2560297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21820448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32147095" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,20 +338,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/User2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/object/ScStu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-78">
@@ -731,33 +643,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一继承/TestoVERRIDE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
+        <state relative-caret-position="323">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,12 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -794,6 +682,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/Basics基础知识/TestSuper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一封装/TestEncapsulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
         </state>
       </provider>
     </entry>
