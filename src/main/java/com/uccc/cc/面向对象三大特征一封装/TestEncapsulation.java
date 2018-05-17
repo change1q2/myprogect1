@@ -24,7 +24,7 @@ class Human{
         }
 
         //就算继承了也不能使用，但是子类里面有private属性
-class Boy extends Human{
+class  Boy extends Human{
     void sayHello(){
         System.out.println(age);
         //System.out.println(sexage);//用private 封装sexage，这样他就是私有的只能Human类里面用，其他地方无
