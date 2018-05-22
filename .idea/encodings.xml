@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
     <file url="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame05/MyGameFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame06/PlaneGame05/MyGameFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame06/PlaneGame05/Plane.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame07/PlaneGame05/Constant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame07/PlaneGame05/MyGameFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame07/PlaneGame05/Plane.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame07/PlaneGame05/Shell.java" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>
