@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PlanGame/PlanGame.iml" filepath="$PROJECT_DIR$/PlanGame/PlanGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlaneGame/PlaneGame.iml" filepath="$PROJECT_DIR$/PlaneGame/PlaneGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame08/PlaneGame08.iml" filepath="$PROJECT_DIR$/PlaneGame08/PlaneGame08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneGame09/PlaneGame09.iml" filepath="$PROJECT_DIR$/PlaneGame09/PlaneGame09.iml" />
       <module fileurl="file://$PROJECT_DIR$/myprogect1.iml" filepath="$PROJECT_DIR$/myprogect1.iml" />
     </modules>
   </component>
