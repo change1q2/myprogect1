@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f112b37-e59e-4745-abc2-ffecab4eb636" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/HttpServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/抽象类/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/抽象类/TextAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlaneGame/src/PlaneGame/MyGameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/PlaneGame/src/PlaneGame/MyGameFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/TestPolym.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/TestPolym.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/PlanGame/target/" />
@@ -21,38 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GameObject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PlaneGame08/src/main/java/GameObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-156">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PlaneGame08/src/main/java/Constant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shell.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PlaneGame08/src/main/java/Shell.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-175">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyGameFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame05/MyGameFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-593">
-              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="399">
+              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -60,8 +30,8 @@
       <file leaf-file-name="MyGameFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame06/PlaneGame05/MyGameFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+            <state relative-caret-position="1425">
+              <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -69,38 +39,39 @@
       <file leaf-file-name="MyGameFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame07/PlaneGame05/MyGameFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="413">
               <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyGameFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame08/PlaneGame05/MyGameFrame.java">
+      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/抽象类/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1695">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="456">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="36" selection-end-column="9" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyGameFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame/MyGameFrame.java">
+      <file leaf-file-name="TextAnimal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/抽象类/TextAnimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+            <state relative-caret-position="361">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/Test.java">
+      <file leaf-file-name="MyGameFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PlaneGame09/src/game/MyGameFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="-1045">
+              <caret line="51" column="56" selection-start-line="51" selection-start-column="56" selection-end-line="51" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -184,6 +155,8 @@
         <option value="$PROJECT_DIR$/PlaneGame/src/PlaneGame/MyGameFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/MyServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/抽象类/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/uccc/cc/抽象类/TextAnimal.java" />
       </list>
     </option>
   </component>
@@ -195,8 +168,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="480" />
-    <option name="y" value="15" />
+    <option name="x" value="783" />
     <option name="width" value="1136" />
     <option name="height" value="1025" />
   </component>
@@ -209,17 +181,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myprogect1" type="58d84e3e:PackageViewProjectNode" />
-              <item name="myprogect1" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -231,6 +192,24 @@
             <path>
               <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
               <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
+              <item name="PlaneGame09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
+              <item name="PlaneGame09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
+              <item name="PlaneGame09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -261,26 +240,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cc" type="462c0819:PsiDirectoryNode" />
-              <item name="面向对象三大特征一一多态" type="462c0819:PsiDirectoryNode" />
+              <item name="抽象类" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cc" type="462c0819:PsiDirectoryNode" />
-              <item name="面向对象三大特征一一多态" type="462c0819:PsiDirectoryNode" />
-              <item name="TestPolym.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="myprogect1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myprogect1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cc" type="462c0819:PsiDirectoryNode" />
-              <item name="面向对象三大特征一一继承" type="462c0819:PsiDirectoryNode" />
+              <item name="myprogect1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="myprogect1" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -336,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.TextAnimal">
     <configuration name="MyGameFrame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="game.MyGameFrame" />
       <module name="PlaneGame09" />
@@ -344,17 +315,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="game.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyGameFrame (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlaneGame07.PlaneGame05.MyGameFrame" />
-      <module name="PlaneGame" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PlaneGame07.PlaneGame05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,6 +342,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.uccc.cc.面向对象三大特征一一多态.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TextAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.uccc.cc.抽象类.TextAnimal" />
+      <module name="myprogect1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uccc.cc.抽象类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,19 +399,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MyGameFrame (3)" />
       <item itemvalue="Application.MyGameFrame (4)" />
       <item itemvalue="Application.MyGameFrame (5)" />
       <item itemvalue="Application.MyGameFrame (1)" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TextAnimal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextAnimal" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.MyGameFrame (4)" />
         <item itemvalue="Application.MyGameFrame (1)" />
         <item itemvalue="Application.MyGameFrame (5)" />
-        <item itemvalue="Application.MyGameFrame (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +429,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="480" y="15" width="1136" height="1025" extended-state="0" />
+    <frame x="783" y="0" width="1136" height="1025" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -470,11 +441,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.19702603" side_tool="true" weight="0.26449275" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.802974" visible="true" weight="0.26334107" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.802974" weight="0.26334107" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2825279" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2881041" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -494,14 +465,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame04/MyGameFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame06/src/cn/sxt/game/MyGameFrame.java" />
     <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame06/src/cn/sxt/game/GameUtil.java" />
     <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame06/GameObject.java" />
     <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame06/GameUtil.java" />
@@ -548,9 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -602,13 +562,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PlaneGame09/src/game/MyGameFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="51" column="56" selection-start-line="51" selection-start-column="56" selection-end-line="51" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -747,7 +700,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PlaneGame08/src/main/java/GameObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
+        <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
@@ -761,46 +714,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PlaneGame08/src/main/java/Shell.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
+        <state relative-caret-position="209">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame05/MyGameFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-593">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="399">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame06/PlaneGame05/MyGameFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame07/PlaneGame05/MyGameFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame08/PlaneGame05/MyGameFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1695">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1425">
+          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame/MyGameFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+        <state relative-caret-position="3097">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -811,10 +747,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PlaneGame09/src/game/MyGameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1045">
+          <caret line="51" column="56" selection-start-line="51" selection-start-column="56" selection-end-line="51" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame08/PlaneGame05/MyGameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/面向对象三大特征一一多态/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlaneGame/src/PlaneGame07/PlaneGame05/MyGameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/抽象类/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/uccc/cc/抽象类/TextAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
