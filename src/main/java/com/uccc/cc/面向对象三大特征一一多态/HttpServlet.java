@@ -2,7 +2,7 @@ package com.uccc.cc.面向对象三大特征一一多态;
 
 /**
  * 作者：seak
- * 内容：serv;et中方法调用
+ * 内容：servet中方法调用
  * 时间：2018/05/25 8:25
  * 命名规则
  * 常量：MAC_VALUE
