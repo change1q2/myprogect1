@@ -13,7 +13,7 @@ public class count {
         System.out.println(a<5);
 
 
-        //char胡izidong自动转换数字,可以用来比较
+        //char胡自动转换数字,可以用来比较
         char d = 'a';
         char d2 = 'c';
         System.out.println("char***************************");

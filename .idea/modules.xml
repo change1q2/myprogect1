@@ -5,7 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/PlaneGame/PlaneGame.iml" filepath="$PROJECT_DIR$/PlaneGame/PlaneGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlaneGame08/PlaneGame08.iml" filepath="$PROJECT_DIR$/PlaneGame08/PlaneGame08.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlaneGame09/PlaneGame09.iml" filepath="$PROJECT_DIR$/PlaneGame09/PlaneGame09.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/String常用方法/String常用方法.iml" filepath="$PROJECT_DIR$/String常用方法/String常用方法.iml" />
+>>>>>>> 8a5987b7bb85c64d5206d67d62a2cf83c0e5f202
       <module fileurl="file://$PROJECT_DIR$/myprogect1.iml" filepath="$PROJECT_DIR$/myprogect1.iml" />
     </modules>
   </component>
