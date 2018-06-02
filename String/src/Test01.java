@@ -9,5 +9,11 @@
  * 其他：驼峰
  */
 public class Test01 {
-    StringBuilder sb = new StringBuilder();
+    public static void main(String[] args) {
+
+
+        StringBuilder sb = new StringBuilder("abcvf");
+        sb.delete(3, 5);
+        System.out.println(sb);
+    }
 }
