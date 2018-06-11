@@ -38,6 +38,9 @@
         <module>hh</module>
         <module>PlanGame</module>
         <module>PlaneGame08</module>
+        <module>Matrix</module>
+        <module>ForTest</module>
+        <module>testwrappedclass</module>
     </modules>
 
 

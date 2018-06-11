@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Matrix" />
         <module name="PlaneGame08" />
         <module name="PlanGame" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Matrix" target="7" />
       <module name="myprogect1" target="7" />
       <module name="PlaneGame08" target="7" />
       <module name="PlanGame" target="7" />
